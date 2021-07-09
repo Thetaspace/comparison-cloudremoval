@@ -28,8 +28,7 @@ For a quick run, we included a Jupyter notebook based on the exact codes of the 
 `git clone https://github.com/Thetaspace/comparison-cloudremoval`
 
 1. Build the docker image
-`cd dsen2-cr/Docker`
-`docker build . -t dsen2-cr`
+`cd dsen2-cr/Docker && docker build . -t dsen2-cr`
 
 1. Run the docker container
 `docker run -it -p 8888:8888 dsen2-cr`
