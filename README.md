@@ -1,4 +1,4 @@
-### Benchmark
+# Benchmark
 
 We compare our neural network architecture from CloudlessEO to state-of-the-art open source cloud removal network DSen2-cr. We tested the two algorithms on the same real-life data. 
 
