@@ -2,7 +2,7 @@
 
 We compare our neural network architecture from CloudlessEO to state-of-the-art open source cloud removal network DSen2-cr. We tested the two algorithms on the same real-life data. 
 
-We used the official codes published by the authors of the [paper](https://github.com/ameraner/dsen2-cr#:~:text=the%20Elsevier%20ISPRS%20page "paper"). 
+We used the official codes published by the authors of the [paper](https://doi.org/10.1016/j.isprsjprs.2020.05.013 "paper"). 
 
 > Meraner, A., Ebel, P., Zhu, X. X., & Schmitt, M. (2020). Cloud removal in Sentinel-2 imagery using a deep residual neural network and SAR-optical data fusion. ISPRS Journal of Photogrammetry and Remote Sensing, 166, 333-346.
 
